@@ -1,6 +1,6 @@
-[⬅ Más asignaturas del DGIIM](https://github.com/mianfg/DGIIM)
+[⬅ Más asignaturas del DGIIM](https://github.com/mianfg-DGIIM)
 
-![Repo image](https://repository-images.githubusercontent.com/292333933/20635e00-ed49-11ea-8198-fda6308053e1)
+![Repo image](https://repository-images.githubusercontent.com/292333933/22b8c69e-79b8-4cec-afc9-120bf9c0e788)
 
 # `MNI` Métodos Numéricos I
 
